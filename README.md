@@ -117,11 +117,7 @@ This strategy **optimizes resources**, **reduces economic and environmental impa
 
 <br>
 
-<div align="center">
-<h3 style="color: #0173B2;">
-<span style="color: #009E73;">🎯</span> Integration of Remote Sensing and Epidemiological Models for Operational Surveillance and Risk Assessment of Emerging Plant Diseases in a Climate Change Context
-</h3>
-</div>
+> ### <div style="color: #0173B2;">Integration of Remote Sensing and Epidemiological Models for Operational Surveillance and Risk Assessment of Emerging Plant Diseases in a Climate Change Context</div>
 
 ### 📍 Context
 
