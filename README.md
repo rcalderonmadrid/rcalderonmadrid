@@ -37,10 +37,10 @@
 
 <!-- Información de posición -->
 <p>
-  <img src="https://img.shields.io/badge/Position-Postdoctoral%20Research%20Associate-0173B2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Programme-MOMENTUM-029E73?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Institution-IAS--CSIC-DE8F05?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Location-C%C3%B3rdoba%2C%20Spain-CC78BC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Position-Postdoctoral%20Research%20Associate-56B4E9?style=for-the-badge"/><br>
+  <img src="https://img.shields.io/badge/Programme-MOMENTUM-009E73?style=for-the-badge"/><br>
+  <img src="https://img.shields.io/badge/Institution-IAS--CSIC-E69F00?style=for-the-badge"/><br>
+  <img src="https://img.shields.io/badge/Location-C%C3%B3rdoba%2C%20Spain-CC79A7?style=for-the-badge"/>
 </p>
 
 </div>
@@ -67,9 +67,9 @@ With a background in **Agricultural and Civil Engineering** and a **PhD from the
 ### 🎯 Research Expertise
 
 I specialize in the **early detection and risk assessment** of plant pathogens including:
-- 🦠 *Verticillium dahliae*
+- 🍄 *Verticillium dahliae*
 - 🦠 *Xylella fastidiosa*  
-- 🦠 *Fusarium oxysporum*
+- 🍄 *Fusarium oxysporum*
 
 Integrating **remote sensing** and **epidemiological modeling** for comprehensive plant disease surveillance.
 
