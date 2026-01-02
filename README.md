@@ -1,26 +1,47 @@
 <div align="center">
 
-<!-- Banner personalizado con gradiente -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=200&section=header&text=Rocío%20Calderón&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Plant%20Disease%20Surveillance%20%7C%20Remote%20Sensing%20%7C%20Epidemiological%20Modeling&descAlignY=58&descSize=18" width="100%"/>
+<!-- Banner personalizado -->
+<img src="./fondo_edited_edited.png" width="100%" alt="Rocío Calderón - Plant Disease Surveillance"/>
 
-<!-- Badges de redes sociales con estilo personalizado -->
+<h1>Rocío Calderón Madrid, PhD</h1>
+<h3>Plant Disease Surveillance | Remote Sensing | Epidemiological Modeling</h3>
+
+<!-- Redes Profesionales con colores colorblind-friendly -->
 <p>
   <a href="https://www.linkedin.com/in/rocio-calderon-phd-remotesensing/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0173B2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0173B2"/>
   </a>
   <a href="https://orcid.org/0000-0002-7639-1795">
-    <img src="https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&labelColor=A6CE39"/>
+    <img src="https://img.shields.io/badge/-ORCID-029E73?style=for-the-badge&logo=orcid&logoColor=white&labelColor=029E73"/>
   </a>
   <a href="https://scholar.google.es/citations?user=frtN8xwAAAAJ&hl=es&oi=ao">
-    <img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=4285F4"/>
+    <img src="https://img.shields.io/badge/-Google%20Scholar-0173B2?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=0173B2"/>
   </a>
   <a href="https://rcalderonmadrid.wixstudio.com/portafolio-inicio">
-    <img src="https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=safari&logoColor=white&labelColor=FF6B6B"/>
+    <img src="https://img.shields.io/badge/-Portfolio-DE8F05?style=for-the-badge&logo=safari&logoColor=white&labelColor=DE8F05"/>
   </a>
 </p>
 
-<!-- Typing SVG animado -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Postdoctoral+Research+Associate+%7C+MOMENTUM;Digital+Phytopathology+%7C+Climate+Change+Resilience;IAS-CSIC+%7C+C%C3%B3rdoba%2C+Spain" alt="Typing SVG" />
+<!-- Redes Sociales -->
+<p>
+  <a href="https://x.com/rcalderonmadrid">
+    <img src="https://img.shields.io/badge/-X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000"/>
+  </a>
+  <a href="https://www.instagram.com/rcalderonm85/">
+    <img src="https://img.shields.io/badge/-Instagram-CC78BC?style=for-the-badge&logo=instagram&logoColor=white&labelColor=CC78BC"/>
+  </a>
+  <a href="https://bsky.app/profile/rcalderonmadrid.bsky.social">
+    <img src="https://img.shields.io/badge/-Bluesky-0173B2?style=for-the-badge&logo=bluesky&logoColor=white&labelColor=0173B2"/>
+  </a>
+</p>
+
+<!-- Información de posición -->
+<p>
+  <img src="https://img.shields.io/badge/Position-Postdoctoral%20Research%20Associate-0173B2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Programme-MOMENTUM-029E73?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Institution-IAS--CSIC-DE8F05?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Location-C%C3%B3rdoba%2C%20Spain-CC78BC?style=for-the-badge"/>
+</p>
 
 </div>
 
@@ -39,7 +60,7 @@ Location: Córdoba, Spain
 Background: Agricultural & Civil Engineering | PhD Universidad de Córdoba
 ```
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+<img align="right" width="300" src="./hi.png" alt="Welcome"/>
 
 With a background in **Agricultural and Civil Engineering** and a **PhD from the University of Córdoba**, my research career spans institutions across 🇪🇸 **Spain**, 🇬🇧 **United Kingdom**, and 🇺🇸 **United States**.
 
@@ -85,9 +106,9 @@ This strategy **optimizes resources**, **reduces economic and environmental impa
 <br>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Project-MOMENTUM-8A2BE2?style=for-the-badge&logo=target&logoColor=white"/>
-<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=checkmarx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Focus-Xylella%20fastidiosa-critical?style=for-the-badge&logo=bug&logoColor=white"/>
+<img src="https://img.shields.io/badge/Project-MOMENTUM-0173B2?style=for-the-badge&logo=target&logoColor=white"/>
+<img src="https://img.shields.io/badge/Status-Active-029E73?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Focus-Xylella%20fastidiosa-DE8F05?style=for-the-badge&logo=bug&logoColor=white"/>
 </div>
 
 <br>
@@ -178,23 +199,23 @@ graph LR
 <div align="center">
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0173B2?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-0173B2?style=for-the-badge&logo=r&logoColor=white)
 
 ### Remote Sensing & GIS
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=google-earth&logoColor=white)
-![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-029E73?style=for-the-badge&logo=qgis&logoColor=white)
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-0173B2?style=for-the-badge&logo=google-earth&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-0173B2?style=for-the-badge&logo=arcgis&logoColor=white)
 
 ### Data Science & ML
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-DE8F05?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-DE8F05?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-0173B2?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-0173B2?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Specialized Tools
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-DE8F05?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-DE8F05?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -350,9 +371,9 @@ graph LR
 
 ### 🎯 UN Sustainable Development Goals
 
-<img src="https://img.shields.io/badge/SDG%202-Zero%20Hunger-DDA63A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SDG%2013-Climate%20Action-3F7E44?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SDG%2015-Life%20on%20Land-56C02B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SDG%202-Zero%20Hunger-DE8F05?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SDG%2013-Climate%20Action-029E73?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SDG%2015-Life%20on%20Land-029E73?style=for-the-badge"/>
 
 </div>
 
@@ -365,7 +386,12 @@ graph LR
 
 ## 📫 Let's Connect!
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<img src="./hi.png" width="200" alt="Let's Connect"/>
+</td>
+<td align="left" width="50%">
 
 **Interested in collaborations on:**
 - 🌱 Plant Disease Surveillance
@@ -373,12 +399,34 @@ graph LR
 - 📊 Epidemiological Modeling
 - 🌍 Climate Change Impact Assessment
 
-<br>
+</td>
+</tr>
+</table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=120&section=footer&text=Integrating%20Technology%20and%20Science&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=70" width="100%"/>
+<div align="center">
 
-<br>
+### Connect with me on social media:
 
-<img src="https://komarev.com/ghpvc/?username=rcalderonmadrid&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+<a href="https://x.com/rcalderonmadrid">
+  <img src="https://img.shields.io/badge/-Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/rcalderonm85/">
+  <img src="https://img.shields.io/badge/-Instagram-CC78BC?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://bsky.app/profile/rcalderonmadrid.bsky.social">
+  <img src="https://img.shields.io/badge/-Bluesky-0173B2?style=for-the-badge&logo=bluesky&logoColor=white"/>
+</a>
+
+<br><br>
+
+---
+
+<p>
+<em>Integrating Technology and Science for a Sustainable Future</em>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=rcalderonmadrid&color=0173B2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
 
 </div>
