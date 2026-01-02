@@ -59,9 +59,9 @@
 ```yaml
 Position: Postdoctoral Research Associate
 Program: MOMENTUM Programme
-Institution: Instituto de Agricultura Sostenible (IAS-CSIC)
+Institution: Instituto for Sustainable Agriculture (IAS-CSIC)
 Location: Córdoba, Spain
-Background: Agricultural & Civil Engineering | PhD Universidad de Córdoba
+Background: Agricultural & Civil Engineering | PhD University of Córdoba
 ```
 
 <img align="right" width="300" src="./hi.png" alt="Welcome"/>
@@ -117,7 +117,11 @@ This strategy **optimizes resources**, **reduces economic and environmental impa
 
 <br>
 
-> **Integration of Remote Sensing and Epidemiological Models for Operational Surveillance and Risk Assessment of Emerging Plant Diseases in a Climate Change Context**
+<div align="center">
+<h3 style="color: #0173B2;">
+<span style="color: #009E73;">🎯</span> Integration of Remote Sensing and Epidemiological Models for Operational Surveillance and Risk Assessment of Emerging Plant Diseases in a Climate Change Context
+</h3>
+</div>
 
 ### 📍 Context
 
