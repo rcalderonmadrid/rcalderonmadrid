@@ -126,9 +126,9 @@ This strategy **optimizes resources**, **reduces economic and environmental impa
 <br>
 
 <div align="center">
-
-## 🎯 **Integration of Remote Sensing and Epidemiological Models for Operational Surveillance and Risk Assessment of Emerging Plant Diseases in a Climate Change Context**
-
+  <h2><strong>
+    Integration of Remote Sensing and Epidemiological Models for Operational Surveillance and Risk Assessment of Emerging Plant Diseases in a Climate Change Context
+  </strong></h2>
 </div>
 
 <br>
@@ -320,27 +320,27 @@ graph LR
 
 ### 📄 Selected Publications
 
-1. **High-resolution airborne hyperspectral and thermal imagery for early detection of Verticillium wilt of olive using fluorescence, temperature and narrow-band spectral indices**  
+1. **High-resolution airborne hyperspectral and thermal imagery for early detection of Verticillium wilt of olive using fluorescence, temperature and narrow-band spectral indices (2013)**  
    📖 *Remote Sensing of Environment* 139, 231-245  
    👥 R Calderón, JA Navas-Cortés, C Lucena, PJ Zarco-Tejada  
    🔗 [DOI: 10.1016/j.rse.2013.08.006](https://www.sciencedirect.com/science/article/abs/pii/S0034425713002435)
 
-2. **Previsual symptoms of Xylella fastidiosa infection revealed in spectral plant-trait alterations**  
+2. **Previsual symptoms of Xylella fastidiosa infection revealed in spectral plant-trait alterations (2018)**  
    📖 *Nature Plants* 4 (7), 432-439  
    👥 PJ Zarco-Tejada, C Camino, PSA Beck, R Calderon, A Hornero, et al.  
    🔗 [DOI: 10.1038/s41477-018-0189-7](https://www.nature.com/articles/s41477-018-0189-7)
 
-3. **Divergent abiotic spectral pathways unravel pathogen stress signals across species**  
+3. **Divergent abiotic spectral pathways unravel pathogen stress signals across species (2021)**  
    📖 *Nature Communications* 12 (1), 6088  
    👥 PJ Zarco-Tejada, T Poblete, C Camino, V González-Dugo, R Calderon, et al.  
    🔗 [DOI: 10.1038/s41467-021-26335-3](https://www.nature.com/articles/s41467-021-26335-3)
 
-4. **Detection of Xylella fastidiosa in almond orchards by synergic use of an epidemic spread model and remotely sensed plant traits**  
+4. **Detection of Xylella fastidiosa in almond orchards by synergic use of an epidemic spread model and remotely sensed plant traits (2021)**  
    📖 *Remote Sensing of Environment* 260, 112420  
    👥 C Camino, R Calderón, S Parnell, H Dierkes, Y Chemin, M Román-Écija, et al.  
    🔗 [DOI: 10.1016/j.rse.2021.112420](https://www.sciencedirect.com/science/article/pii/S0034425721001383)
 
-5. **Opportunities and challenges in combining optical sensing and epidemiological modelling**  
+5. **Opportunities and challenges in combining optical sensing and epidemiological modelling (2025)**  
    📖 *Phytopathology*  
    👥 A Mikaberidze, CD Cruz, A Zerihun, A Barreto, P Beck, R Calderón, et al.  
    🔗 [DOI: 10.1094/PHYTO-11-24-0359-FI](https://apsjournals.apsnet.org/doi/full/10.1094/PHYTO-11-24-0359-FI)
