@@ -3,7 +3,7 @@
 <!-- Banner personalizado -->
 <img src="./fondo_edited_edited.png" width="100%" alt="Rocío Calderón - Plant Disease Surveillance"/>
 
-<p style="font-size: 10em; font-weight: bold; margin-bottom: 0.2em; margin-top: 0.5em;">Rocío Calderón Madrid, PhD</p>
+<h1 style="border-bottom: none; padding-bottom: 0;">Rocío Calderón Madrid, PhD</h1>
 <h3>Plant Disease Surveillance | Remote Sensing | Epidemiological Modeling</h3>
 
 <!-- Redes Profesionales con colores colorblind-friendly -->
