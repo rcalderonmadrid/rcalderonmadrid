@@ -126,9 +126,9 @@ This strategy **optimizes resources**, **reduces economic and environmental impa
 <br>
 
 <div align="center">
-  <h2><strong>
-    Integration of Remote Sensing and Epidemiological Models for Operational Surveillance and Risk Assessment of Emerging Plant Diseases in a Climate Change Context
-  </strong></h2>
+
+### 🎯 **Integration of Remote Sensing and Epidemiological Models for Operational Surveillance and Risk Assessment of Emerging Plant Diseases in a Climate Change Context**
+
 </div>
 
 <br>
