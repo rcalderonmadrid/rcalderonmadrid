@@ -39,6 +39,8 @@
 
 <br>
 
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #0173B2, #029E73, #DE8F05, #CC79A7); margin: 2em 0;">
+
 <!-- Sección About Me con diseño mejorado -->
 <details open>
 <summary><h2>🔬 About Me</h2></summary>
@@ -111,6 +113,8 @@ This strategy **optimizes resources**, **reduces economic and environmental impa
 </details>
 
 <br>
+
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #0173B2, #029E73, #DE8F05, #CC79A7); margin: 2em 0;">
 
 <!-- Sección de proyecto actual con diseño mejorado -->
 <details open>
@@ -214,6 +218,8 @@ graph LR
 
 <br>
 
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #0173B2, #029E73, #DE8F05, #CC79A7); margin: 2em 0;">
+
 <!-- Tech Stack mejorado -->
 <details open>
 <summary><h2>🛠️ Tech Stack & Skills</h2></summary>
@@ -313,6 +319,8 @@ graph LR
 
 <br>
 
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #0173B2, #029E73, #DE8F05, #CC79A7); margin: 2em 0;">
+
 <!-- Publicaciones con estilo mejorado -->
 <details open>
 <summary><h2>📚 Featured Publications</h2></summary>
@@ -345,8 +353,6 @@ graph LR
 
 <div align="center">
 
----
-
 For a complete list of publications, visit my [Google Scholar Profile](https://scholar.google.es/citations?user=frtN8xwAAAAJ&hl=es&oi=ao)
 
 </div>
@@ -354,6 +360,8 @@ For a complete list of publications, visit my [Google Scholar Profile](https://s
 </details>
 
 <br>
+
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #0173B2, #029E73, #DE8F05, #CC79A7); margin: 2em 0;">
 
 <!-- GitHub Stats mejorados -->
 <details open>
@@ -373,6 +381,8 @@ For a complete list of publications, visit my [Google Scholar Profile](https://s
 </details>
 
 <br>
+
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #0173B2, #029E73, #DE8F05, #CC79A7); margin: 2em 0;">
 
 <!-- Sección de impacto con diseño mejorado -->
 <details open>
@@ -433,6 +443,8 @@ For a complete list of publications, visit my [Google Scholar Profile](https://s
 </details>
 
 <br>
+
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #0173B2, #029E73, #DE8F05, #CC79A7); margin: 2em 0;">
 
 <!-- Sección de contacto mejorada -->
 <div align="center">
