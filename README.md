@@ -515,7 +515,7 @@ For a complete list of publications, visit my [Google Scholar Profile](https://s
   <img src="https://img.shields.io/badge/-Google%20Scholar-0173B2?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 </a>
 
-<br>
+<br><br>
 
 **Social Media**
 
