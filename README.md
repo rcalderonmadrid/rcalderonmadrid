@@ -188,7 +188,7 @@ Enhance **risk assessment** in climate change context integrating remote sensing
 ### 🔬 Methodological Innovation
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'fontSize':'18px'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'fontSize':'18px', 'primaryColor':'#0173B2', 'primaryTextColor':'#fff', 'primaryBorderColor':'#333', 'lineColor':'#fff', 'secondaryColor':'#029E73', 'tertiaryColor':'#DE8F05', 'edgeLabelBackground':'transparent'}}}%%
 graph LR
     A[Hyperspectral Satellite Data] --> D[Machine Learning Models]
     B[Multispectral Satellite Data] --> D
@@ -206,6 +206,8 @@ graph LR
     style F fill:#CC79A7,stroke:#333,stroke-width:3px,color:#fff,font-size:16px
     style G fill:#E69F00,stroke:#333,stroke-width:3px,color:#000,font-size:16px
     style H fill:#D55E00,stroke:#333,stroke-width:3px,color:#fff,font-size:16px
+    
+    linkStyle default stroke:#fff,stroke-width:2px
 ```
 
 </details>
