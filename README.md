@@ -127,7 +127,7 @@ This strategy **optimizes resources**, **reduces economic and environmental impa
 
 <div align="center">
 
-### 🎯 **Integration of Remote Sensing and Epidemiological Models for Operational Surveillance and Risk Assessment of Emerging Plant Diseases in a Climate Change Context**
+### **Integration of Remote Sensing and Epidemiological Models for Operational Surveillance and Risk Assessment of Emerging Plant Diseases in a Climate Change Context**
 
 </div>
 
@@ -317,8 +317,6 @@ graph LR
 <details open>
 <summary><h2>📚 Featured Publications</h2></summary>
 <br>
-
-### 📄 Selected Publications
 
 1. **High-resolution airborne hyperspectral and thermal imagery for early detection of Verticillium wilt of olive using fluorescence, temperature and narrow-band spectral indices (2013)**  
    📖 *Remote Sensing of Environment* 139, 231-245  
