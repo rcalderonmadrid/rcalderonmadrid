@@ -44,6 +44,8 @@
 <summary><h2>🔬 About Me</h2></summary>
 <br>
 
+<div align="center">
+
 <!-- Información de posición -->
 <p>
   <img src="https://img.shields.io/badge/Position-Postdoctoral%20Research%20Associate-56B4E9?style=for-the-badge"/><br>
@@ -55,6 +57,8 @@
   </a><br>
   <img src="https://img.shields.io/badge/Location-C%C3%B3rdoba%2C%20Spain-CC79A7?style=for-the-badge"/>
 </p>
+
+</div>
 
 ```yaml
 Position: Postdoctoral Research Associate
@@ -123,11 +127,7 @@ This strategy **optimizes resources**, **reduces economic and environmental impa
 
 <div align="center">
 
-### 🎯 Project Title
-
-<img src="https://img.shields.io/badge/Integration%20of%20Remote%20Sensing%20and%20Epidemiological%20Models-0173B2?style=for-the-badge&labelColor=029E73"/>
-<img src="https://img.shields.io/badge/for%20Operational%20Surveillance%20and%20Risk%20Assessment-0173B2?style=for-the-badge&labelColor=029E73"/>
-<img src="https://img.shields.io/badge/of%20Emerging%20Plant%20Diseases%20in%20Climate%20Change%20Context-0173B2?style=for-the-badge&labelColor=029E73"/>
+## 🎯 **Integration of Remote Sensing and Epidemiological Models for Operational Surveillance and Risk Assessment of Emerging Plant Diseases in a Climate Change Context**
 
 </div>
 
@@ -135,7 +135,7 @@ This strategy **optimizes resources**, **reduces economic and environmental impa
 
 ### 📍 Context
 
-The spread of emerging plant diseases, exacerbated by **climate change** and **globalization**, threatens global food security and biodiversity. This project addresses *Xylella fastidiosa* (**Xf**), considered the **first priority pest in the EU**.
+The spread of emerging plant diseases, exacerbated by **climate change** and **globalization**, threatens global food security and biodiversity. This project addresses *Xylella fastidiosa* (*Xf*), considered the **first priority pest in the EU**.
 
 ### 🎯 Research Objectives
 
@@ -165,15 +165,14 @@ Integrate satellite imagery into **epidemiological models** to optimize surveill
 
 **Key Activities:**
 - Quantitatively evaluate epidemiological parameters
-- Implement Bayesian inference
-- Optimize surveillance programs
+- Optimize surveillance and control programs
 
 </td>
 <td width="33%" valign="top">
 
 **🌍 Objective 3**
 
-Enhance **risk assessment** in climate change context integrating multiple data sources
+Enhance **risk assessment** in climate change context integrating remote sensing, species distribution models and spread models
 
 <br>
 
@@ -198,11 +197,14 @@ graph LR
     F --> G[Risk Assessment Maps]
     G --> H[Surveillance Protocols]
     
-    style A fill:#4A90E2
-    style B fill:#7B68EE
-    style D fill:#50C878
-    style F fill:#FF6B6B
-    style H fill:#FFD700
+    style A fill:#0173B2,stroke:#333,stroke-width:2px,color:#fff
+    style B fill:#029E73,stroke:#333,stroke-width:2px,color:#fff
+    style C fill:#CC79A7,stroke:#333,stroke-width:2px,color:#fff
+    style D fill:#DE8F05,stroke:#333,stroke-width:2px,color:#fff
+    style E fill:#E69F00,stroke:#333,stroke-width:2px,color:#fff
+    style F fill:#56B4E9,stroke:#333,stroke-width:2px,color:#000
+    style G fill:#009E73,stroke:#333,stroke-width:2px,color:#fff
+    style H fill:#D55E00,stroke:#333,stroke-width:2px,color:#fff
 ```
 
 </details>
