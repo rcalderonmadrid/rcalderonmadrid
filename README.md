@@ -482,11 +482,6 @@ For a complete list of publications, visit my [Google Scholar Profile](https://s
 
 <table align="center">
 <tr>
-<td width="33%" valign="top" align="center">
-
-<img src="./connect.png" width="250" alt="Let's Connect"/>
-
-</td>
 <td width="33%" valign="top">
 
 #### 💼 Professional Inquiries
@@ -535,6 +530,11 @@ For a complete list of publications, visit my [Google Scholar Profile](https://s
 </a>
 
 </div>
+
+</td>
+<td width="33%" valign="middle" align="center">
+
+<img src="./connect.png" width="250" alt="Let's Connect"/>
 
 </td>
 </tr>
