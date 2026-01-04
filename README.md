@@ -397,9 +397,11 @@ For a complete list of publications, visit my [Google Scholar Profile](https://s
 
 </div>
 
+<div align="center">
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 #### 🌾 Food Security
 - 🔍 Early disease detection systems
@@ -414,7 +416,7 @@ For a complete list of publications, visit my [Google Scholar Profile](https://s
 - 🔄 Sustainable adaptation mechanisms
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 #### 💚 Sustainable Agriculture
 - ⚡ Optimized resource utilization
@@ -431,6 +433,8 @@ For a complete list of publications, visit my [Google Scholar Profile](https://s
 </td>
 </tr>
 </table>
+
+</div>
 
 <br>
 
@@ -464,33 +468,57 @@ For a complete list of publications, visit my [Google Scholar Profile](https://s
 <hr style="border: 0; height: 2px; background: linear-gradient(to right, #0173B2, #029E73, #DE8F05, #CC79A7); margin: 2em 0;">
 
 <!-- Sección de contacto mejorada -->
+<details open>
+<summary><h2>📫 Let's Connect!</h2></summary>
+<br>
+
 <div align="center">
 
-## 📫 Let's Connect!
+### 🤝 Open to Collaborations & Partnerships
+
+<img src="./connect.png" width="250" alt="Let's Connect"/>
+
+</div>
 
 <table align="center">
 <tr>
-<td align="center" width="50%">
-<img src="./hi.png" width="200" alt="Let's Connect"/>
-</td>
-<td align="left" width="50%">
+<td width="50%" valign="top">
 
-**Interested in collaborations on:**
+#### 💼 Professional Inquiries
+
+**Email:** [r.calderon@csic.es](mailto:r.calderon@csic.es)
+
+#### 🔬 Research Interests
 - 🌱 Plant Disease Surveillance
 - 🛰️ Remote Sensing Applications  
 - 📊 Epidemiological Modeling
 - 🌍 Climate Change Impact Assessment
+- 🤖 AI in Agriculture
+- 📡 Digital Phytopathology
 
 </td>
-</tr>
-</table>
+<td width="50%" valign="top">
+
+#### 🌐 Find Me Online
 
 <div align="center">
 
-### Connect with me on social media:
+**Academic Profiles**
+
+<a href="https://www.linkedin.com/in/rocio-calderon-phd-remotesensing/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0173B2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://orcid.org/0000-0002-7639-1795">
+  <img src="https://img.shields.io/badge/-ORCID-029E73?style=for-the-badge&logo=orcid&logoColor=white"/>
+</a>
+<a href="https://scholar.google.es/citations?user=frtN8xwAAAAJ&hl=es&oi=ao">
+  <img src="https://img.shields.io/badge/-Google%20Scholar-0173B2?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+</a>
+
+**Social Media**
 
 <a href="https://x.com/rcalderonmadrid">
-  <img src="https://img.shields.io/badge/-Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/rcalderonm85/">
   <img src="https://img.shields.io/badge/-Instagram-CC78BC?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -499,16 +527,24 @@ For a complete list of publications, visit my [Google Scholar Profile](https://s
   <img src="https://img.shields.io/badge/-Bluesky-0173B2?style=for-the-badge&logo=bluesky&logoColor=white"/>
 </a>
 
-<br><br>
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
 
 ---
 
-<p>
-<em>Integrating Technology and Science for a Sustainable Future</em>
-</p>
+### 💡 *"Integrating Technology and Science for a Sustainable Future"*
 
 <img src="https://komarev.com/ghpvc/?username=rcalderonmadrid&color=0173B2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
+
+</details>
 
 </div>
