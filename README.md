@@ -188,6 +188,7 @@ Enhance **risk assessment** in climate change context integrating remote sensing
 ### 🔬 Methodological Innovation
 
 ```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'fontSize':'18px'}}}%%
 graph LR
     A[Hyperspectral Satellite Data] --> D[Machine Learning Models]
     B[Multispectral Satellite Data] --> D
@@ -197,14 +198,14 @@ graph LR
     F --> G[Risk Assessment Maps]
     G --> H[Surveillance Protocols]
     
-    style A fill:#0173B2,stroke:#333,stroke-width:2px,color:#fff
-    style B fill:#029E73,stroke:#333,stroke-width:2px,color:#fff
-    style C fill:#CC79A7,stroke:#333,stroke-width:2px,color:#fff
-    style D fill:#DE8F05,stroke:#333,stroke-width:2px,color:#fff
-    style E fill:#E69F00,stroke:#333,stroke-width:2px,color:#fff
-    style F fill:#56B4E9,stroke:#333,stroke-width:2px,color:#000
-    style G fill:#009E73,stroke:#333,stroke-width:2px,color:#fff
-    style H fill:#D55E00,stroke:#333,stroke-width:2px,color:#fff
+    style A fill:#0173B2,stroke:#333,stroke-width:3px,color:#fff,font-size:16px
+    style B fill:#0173B2,stroke:#333,stroke-width:3px,color:#fff,font-size:16px
+    style C fill:#0173B2,stroke:#333,stroke-width:3px,color:#fff,font-size:16px
+    style D fill:#DE8F05,stroke:#333,stroke-width:3px,color:#fff,font-size:16px
+    style E fill:#029E73,stroke:#333,stroke-width:3px,color:#fff,font-size:16px
+    style F fill:#CC79A7,stroke:#333,stroke-width:3px,color:#fff,font-size:16px
+    style G fill:#E69F00,stroke:#333,stroke-width:3px,color:#000,font-size:16px
+    style H fill:#D55E00,stroke:#333,stroke-width:3px,color:#fff,font-size:16px
 ```
 
 </details>
