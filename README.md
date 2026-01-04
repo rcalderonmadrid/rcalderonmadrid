@@ -314,7 +314,7 @@ graph LR
 <br>
 
 <!-- Publicaciones con estilo mejorado -->
-<details>
+<details open>
 <summary><h2>📚 Featured Publications</h2></summary>
 <br>
 
