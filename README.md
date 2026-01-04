@@ -35,6 +35,15 @@
   </a>
 </p>
 
+</div>
+
+<br>
+
+<!-- Sección About Me con diseño mejorado -->
+<details open>
+<summary><h2>🔬 About Me</h2></summary>
+<br>
+
 <!-- Información de posición -->
 <p>
   <img src="https://img.shields.io/badge/Position-Postdoctoral%20Research%20Associate-56B4E9?style=for-the-badge"/><br>
@@ -47,19 +56,10 @@
   <img src="https://img.shields.io/badge/Location-C%C3%B3rdoba%2C%20Spain-CC79A7?style=for-the-badge"/>
 </p>
 
-</div>
-
-<br>
-
-<!-- Sección About Me con diseño mejorado -->
-<details open>
-<summary><h2>🔬 About Me</h2></summary>
-<br>
-
 ```yaml
 Position: Postdoctoral Research Associate
 Program: MOMENTUM Programme
-Institution: Instituto for Sustainable Agriculture (IAS-CSIC)
+Institution: Institute for Sustainable Agriculture (IAS-CSIC)
 Location: Córdoba, Spain
 Background: Agricultural & Civil Engineering | PhD University of Córdoba
 ```
@@ -75,11 +75,13 @@ I specialize in the **early detection and risk assessment** of plant pathogens i
 - 🦠 *Xylella fastidiosa*  
 - 🍄 *Fusarium oxysporum*
 
-Integrating **remote sensing** and **epidemiological modeling** for comprehensive plant disease surveillance.
+Integrating **remote sensing** and **epidemiological modeling** for comprehensive plant disease surveillance and management.
 
 ### 🌱 Current Mission
 
 Developing **operational surveillance systems** for emerging plant diseases in the context of climate change, using a digital ecosystem that combines:
+
+<div align="center">
 
 <table>
 <tr>
@@ -97,6 +99,8 @@ Developing **operational surveillance systems** for emerging plant diseases in t
 </td>
 </tr>
 </table>
+
+</div>
 
 This strategy **optimizes resources**, **reduces economic and environmental impacts**, ensures **food security**, and enhances **agricultural ecosystem resilience** against climate change and virulent pathogens.
 
@@ -117,7 +121,17 @@ This strategy **optimizes resources**, **reduces economic and environmental impa
 
 <br>
 
-> ### <div style="color: #0173B2;">Integration of Remote Sensing and Epidemiological Models for Operational Surveillance and Risk Assessment of Emerging Plant Diseases in a Climate Change Context</div>
+<div align="center">
+
+### 🎯 Project Title
+
+<img src="https://img.shields.io/badge/Integration%20of%20Remote%20Sensing%20and%20Epidemiological%20Models-0173B2?style=for-the-badge&labelColor=029E73"/>
+<img src="https://img.shields.io/badge/for%20Operational%20Surveillance%20and%20Risk%20Assessment-0173B2?style=for-the-badge&labelColor=029E73"/>
+<img src="https://img.shields.io/badge/of%20Emerging%20Plant%20Diseases%20in%20Climate%20Change%20Context-0173B2?style=for-the-badge&labelColor=029E73"/>
+
+</div>
+
+<br>
 
 ### 📍 Context
 
