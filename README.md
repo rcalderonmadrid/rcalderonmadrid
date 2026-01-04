@@ -223,22 +223,32 @@ graph LR
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-0173B2?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-0173B2?style=for-the-badge&logo=r&logoColor=white)
+![R](https://img.shields.io/badge/R-029E73?style=for-the-badge&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-DE8F05?style=for-the-badge&logo=javascript&logoColor=white)
 
 ### Remote Sensing & GIS
-![QGIS](https://img.shields.io/badge/QGIS-029E73?style=for-the-badge&logo=qgis&logoColor=white)
-![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-0173B2?style=for-the-badge&logo=google-earth&logoColor=white)
-![ArcGIS](https://img.shields.io/badge/ArcGIS-0173B2?style=for-the-badge&logo=arcgis&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-0173B2?style=for-the-badge&logo=qgis&logoColor=white)
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-029E73?style=for-the-badge&logo=google-earth&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-DE8F05?style=for-the-badge&logo=arcgis&logoColor=white)
+![ENVI](https://img.shields.io/badge/ENVI-CC79A7?style=for-the-badge&logoColor=white)
 
 ### Data Science & ML
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-DE8F05?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-DE8F05?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-0173B2?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-029E73?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-DE8F05?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-CC79A7?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### Data Analysis & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-0173B2?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-0173B2?style=for-the-badge&logo=numpy&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-029E73?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-DE8F05?style=for-the-badge&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-CC79A7?style=for-the-badge&logoColor=white)
 
 ### Specialized Tools
-![Jupyter](https://img.shields.io/badge/Jupyter-DE8F05?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-DE8F05?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-0173B2?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-029E73?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-DE8F05?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-CC79A7?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
