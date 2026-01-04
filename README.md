@@ -370,14 +370,15 @@ For a complete list of publications, visit my [Google Scholar Profile](https://s
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rcalderonmadrid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rcalderonmadrid&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcalderonmadrid&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
 ### 📈 Contribution Activity
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rcalderonmadrid&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rcalderonmadrid&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rcalderonmadrid&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rcalderonmadrid&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rcalderonmadrid&theme=tokyonight)
 
 </div>
 
