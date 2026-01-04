@@ -224,7 +224,6 @@ graph LR
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-0173B2?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-029E73?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-DE8F05?style=for-the-badge&logo=javascript&logoColor=white)
 
 ### Remote Sensing & GIS
 ![QGIS](https://img.shields.io/badge/QGIS-0173B2?style=for-the-badge&logo=qgis&logoColor=white)
@@ -243,6 +242,9 @@ graph LR
 ![NumPy](https://img.shields.io/badge/Numpy-029E73?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-DE8F05?style=for-the-badge&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-CC79A7?style=for-the-badge&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-0173B2?style=for-the-badge&logo=r&logoColor=white)
+![dplyr](https://img.shields.io/badge/dplyr-029E73?style=for-the-badge&logo=r&logoColor=white)
+![tidyr](https://img.shields.io/badge/tidyr-DE8F05?style=for-the-badge&logo=r&logoColor=white)
 
 ### Specialized Tools
 ![Jupyter](https://img.shields.io/badge/Jupyter-0173B2?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -273,12 +275,12 @@ graph LR
 <td align="center" width="25%">
 <img src="https://img.icons8.com/color/96/000000/bacteria.png" width="50"/><br>
 <b>Epidemiology</b><br>
-<sub>Plant Pathology Modeling</sub>
+<sub>Epidemiological Modeling</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/machine-learning.png" width="50"/><br>
+<img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="50"/><br>
 <b>Machine Learning</b><br>
-<sub>AI for Disease Detection</sub>
+<sub>AI for Plant Disease Detection</sub>
 </td>
 </tr>
 <tr>
@@ -288,9 +290,9 @@ graph LR
 <sub>Bayesian Inference</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/climate.png" width="50"/><br>
+<img src="https://img.icons8.com/color/96/000000/climate-change.png" width="50"/><br>
 <b>Climate Science</b><br>
-<sub>Impact Assessment</sub>
+<sub>Earth System Modeling & Impact Assessment</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/color/96/000000/data-sheet.png" width="50"/><br>
