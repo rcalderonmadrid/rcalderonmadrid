@@ -476,13 +476,18 @@ For a complete list of publications, visit my [Google Scholar Profile](https://s
 
 ### 🤝 Open to Collaborations & Partnerships
 
-<img src="./connect.png" width="250" alt="Let's Connect"/>
-
 </div>
+
+<br>
 
 <table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top" align="center">
+
+<img src="./connect.png" width="250" alt="Let's Connect"/>
+
+</td>
+<td width="33%" valign="top">
 
 #### 💼 Professional Inquiries
 
@@ -497,7 +502,7 @@ For a complete list of publications, visit my [Google Scholar Profile](https://s
 - 📡 Digital Phytopathology
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 #### 🌐 Find Me Online
 
@@ -514,6 +519,8 @@ For a complete list of publications, visit my [Google Scholar Profile](https://s
 <a href="https://scholar.google.es/citations?user=frtN8xwAAAAJ&hl=es&oi=ao">
   <img src="https://img.shields.io/badge/-Google%20Scholar-0173B2?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 </a>
+
+<br><br>
 
 **Social Media**
 
