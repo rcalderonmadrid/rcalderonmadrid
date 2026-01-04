@@ -370,13 +370,22 @@ For a complete list of publications, visit my [Google Scholar Profile](https://s
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rcalderonmadrid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rcalderonmadrid&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+<a href="https://github.com/rcalderonmadrid">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rcalderonmadrid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&cache_seconds=1800" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/rcalderonmadrid">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rcalderonmadrid&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcalderonmadrid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rcalderonmadrid&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" />
+<br><br>
+
+<a href="https://github.com/rcalderonmadrid">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcalderonmadrid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+</a>
 
 </div>
+
+**Note:** GitHub statistics are generated dynamically and may take a moment to load. If they don't appear, please refresh the page.
 
 </details>
 
