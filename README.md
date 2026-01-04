@@ -370,8 +370,6 @@ For a complete list of publications, visit my [Google Scholar Profile](https://s
 
 <div align="center">
 
-### 📈 Contribution Activity
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rcalderonmadrid&theme=tokyonight)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rcalderonmadrid&theme=tokyonight)
@@ -395,11 +393,7 @@ For a complete list of publications, visit my [Google Scholar Profile](https://s
 
 <div align="center">
 
-```ascii
-╔══════════════════════════════════════════════════════════════════════╗
-║                    CONTRIBUTIONS TO GLOBAL CHALLENGES                ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+### 🎯 Transforming Agricultural Health Through Innovation
 
 </div>
 
@@ -407,40 +401,59 @@ For a complete list of publications, visit my [Google Scholar Profile](https://s
 <tr>
 <td width="50%" valign="top">
 
-### 🌾 Food Security
-- Early disease detection systems
-- Reduced crop losses
-- Enhanced agricultural productivity
+#### 🌾 Food Security
+- 🔍 Early disease detection systems
+- 📉 Reduced crop losses through timely intervention
+- 📈 Enhanced agricultural productivity
+- 🛡️ Protection of global food supply chains
 
-### 🌍 Climate Resilience  
-- Adaptive surveillance strategies
-- Climate-smart agriculture
-- Ecosystem resilience enhancement
+#### 🌍 Climate Resilience  
+- 🌡️ Adaptive surveillance strategies for changing climates
+- 🌱 Climate-smart agriculture practices
+- 💪 Enhanced ecosystem resilience
+- 🔄 Sustainable adaptation mechanisms
 
 </td>
 <td width="50%" valign="top">
 
-### 💚 Sustainable Agriculture
-- Optimized resource utilization
-- Reduced pesticide application
-- Environmental impact mitigation
+#### 💚 Sustainable Agriculture
+- ⚡ Optimized resource utilization
+- 🧪 Reduced chemical pesticide application
+- 🌿 Environmental impact mitigation
+- ♻️ Promotion of circular economy principles
 
-### 📡 Technology Advancement
-- Operational remote sensing applications
-- Phytosanitary policy support
-- Digital phytopathology innovation
+#### 📡 Technology Advancement
+- 🛰️ Operational remote sensing applications
+- 📋 Phytosanitary policy support systems
+- 💻 Digital phytopathology innovation
+- 🤝 Open science and knowledge transfer
 
 </td>
 </tr>
 </table>
 
+<br>
+
 <div align="center">
 
-### 🎯 UN Sustainable Development Goals
+### 🎯 Alignment with UN Sustainable Development Goals
 
-<img src="https://img.shields.io/badge/SDG%202-Zero%20Hunger-DE8F05?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SDG%2013-Climate%20Action-029E73?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SDG%2015-Life%20on%20Land-029E73?style=for-the-badge"/>
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/SDG%202-Zero%20Hunger-DE8F05?style=for-the-badge&logo=target&logoColor=white"/><br>
+<sub><b>End hunger, achieve food security</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/SDG%2013-Climate%20Action-029E73?style=for-the-badge&logo=leaf&logoColor=white"/><br>
+<sub><b>Combat climate change impacts</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/SDG%2015-Life%20on%20Land-029E73?style=for-the-badge&logo=tree&logoColor=white"/><br>
+<sub><b>Protect terrestrial ecosystems</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
